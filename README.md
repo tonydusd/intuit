@@ -52,6 +52,15 @@ curl -X POST --data "@intuit.json" -H "Content-Type:application/json" http://loc
 ## Result
 The output file is located at /tmp/myfile.log.
 
+```text
+First name: Tony
+Last name: Du
+DOB: 2000-06-01
+Email: example@intuit.com
+Phone: 858-831-8743
+TimeStamp: 2022-06-06T19:19:43.274707362Z
+```
+
 ## Contributing
 title Intuit example
 Client->Java Spring server : RESTFul request
